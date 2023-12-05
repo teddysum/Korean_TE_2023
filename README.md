@@ -35,7 +35,7 @@ klue/roberta-base( https://huggingface.co/klue/roberta-base )를 기반으로 �
 
 학습된 베이스라인 모델은 아래 링크에서 받으실 수 있습니다.
 
-model link:
+model link: https://drive.google.com/file/d/10Ja6k-WL205LEcQ35rPOvfjMn1SAS4t6/view?usp=sharing
 
 모델 입력 형태를 \<s>premise\</s>\</s>proposition\</s>로 하고 entailment, contradiction, neutral 세 가지 중 하나로 분류합니다.
 
